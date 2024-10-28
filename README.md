@@ -1,1 +1,4 @@
-# -CodeClauseInternship_Predicting-House-Prices
+# -CodeClauseInternship_Predicting-House-Prices 
+
+## project overview:
+This project involves building a linear regression model to predict house prices based on features like the number of bedrooms and square footage. Using Python, Pandas, and Scikit-learn, we preprocess the data by handling missing values and selecting relevant features. After performing exploratory data analysis (EDA) to understand feature relationships, we split the data into training and testing sets, train a simple linear regression model, and evaluate its performance using Mean Squared Error (MSE) and R-squared (R²) scores. Finally, we visualize the actual vs. predicted prices and analyze model coefficients to interpret how each feature impacts the price prediction. This project offers a practical introduction to regression modeling and predictive analytics.
